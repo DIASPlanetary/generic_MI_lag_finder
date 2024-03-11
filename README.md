@@ -1,4 +1,6 @@
-# generic_MI_lag_finder
+# generic_MI_lag_finder v1.0.0
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10804655.svg)](https://doi.org/10.5281/zenodo.10804655)
 
 This package is intended to determine coupling timescales between two sets of data or 'timeseries'. The Mutual Information (MI) content between the two timeseries is calculated at a range of different temporal lags. MI is a measure of the shared information content between two variables, independent of the order or direction of their relationship. A piecewise linear and quadratic curve are fit to the MI data as a function of temporal lag; the peak of these curves can be interpreted as the coupling timescale between the two measured phenomena.
 
