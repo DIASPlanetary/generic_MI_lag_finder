@@ -12,7 +12,7 @@ scipy, matplotlib, numpy, pandas, datetime, sklearn, aaft
 
 [Install aaft from its github here](https://github.com/lneisenman/aaft)
 
-Developed using Python 3.8.8. See requirements.txt for version of packages.
+Developed using Python 3.8.8. See [requirements.txt](https://github.com/arfogg/generic_MI_lag_finder/blob/main/requirements.txt) for version of packages.
 
 ## Running the code
 
